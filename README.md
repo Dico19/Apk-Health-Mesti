@@ -5,6 +5,19 @@ Aplikasi ini dibuat sebagai tugas project Flutter dengan fitur utama seperti daf
 
 ---
 
+# 🪪 Identitas
+
+- *Nama*  : MESTI INDRIYANI 
+- *NIM*   : 14022300060
+- *Kelas* : 5B-INF
+- *Mata Kuliah* : Pemrograman Mobile
+- *Dosen Pengampu* : Faisal Akhmad S.Kom., M.Kom.
+- *Prodi* : Sistem Informasi
+- *Fakultas* : Ilmu Komputer
+- *UNIVERSITAS BINA BANGSA SERANG*
+
+---
+
 ## 1. Nama Aplikasi
 
 **Health Online – Aplikasi Konsultasi Kesehatan Online**
@@ -116,6 +129,12 @@ Aplikasi ini juga dilengkapi **Dark Mode** dan **Navigation Drawer** untuk penga
 ---
 
 ## 5. Screenshot Halaman Utama
+![Home](screenshots/home.png)
+![Dokter](screenshots/dokter.png)
+![Jadwal](screenshots/jadwal.png)
+![Navbar](screenshots/navbar.png)
+![Profile](screenshots/profile.png)
+![Rekam](screenshots/rekam.png)
 
 ---
 
